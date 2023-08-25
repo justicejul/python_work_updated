@@ -1,0 +1,1 @@
+print(f'Betty friedan once said, "No woman gets an organism from \nshinning the kitchen floor."')

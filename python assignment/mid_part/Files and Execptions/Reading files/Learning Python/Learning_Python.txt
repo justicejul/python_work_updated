@@ -1,0 +1,12 @@
+In Python you can learn about strings 
+in Python you can learn about number which is divided into floats and integers
+in Python you can learn about lists and the methods you can use to control, access and modify it 
+in Python you can learn about tuples and the methods you can use to control, access and modify it 
+in Python you can learn about sets and the methods you can use to control, access and modify it
+in Python you can learn about dictionaries - which has to do with storing of data but in key-value pair.
+in Python you can learn about if statement, and also conditional statement that has to do with boolean values
+in Python you can learn about loops i.e for loops and while loops
+in Python you can learn about input statement that receives user information
+in Python you can learn about functions and also methods, and return statements in functions
+in Python you can learn about classes and object programming
+in Python you can learn about files and execptions - which has to do with writing to file, and also reading into a file 
