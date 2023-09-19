@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd4fae59-05ba-4a13-a924-4a4bd2d7eb7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../Python Projects/madlibs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mid-parts/Storing_data/number_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Files and Execptions/Fi_Les_Ex_Ception/Additional_Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Files and Execptions/Fi_Les_Ex_Ception/Cat&amp;dogs/dog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Files and Execptions/Fi_Les_Ex_Ception/Common_Words/common_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classes/Inheritance/Admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classes/Inheritance/Battery Upgrade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classes/Inheritance/Ice_Cream_Stand.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classes/Inheritance/Privileges.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classes/Restaurant.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classes/Three Restaurants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classes/Users.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classes/Working with Classes and Instances.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classes/Working with Classes and Instances/Login Attempts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classes/Working with Classes and Instances/Number Served.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classes/importing classes/Imported Admin/Imported_Admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classes/importing classes/Imported Admin/Stored_classes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classes/importing classes/Imported_Restaurant/colab_foods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classes/importing classes/Imported_Restaurant/imported_Restaurant.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dictionaries/Cities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dictionaries/Extensions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dictionaries/Favorite_Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dictionaries/Favorite_Places.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dictionaries/Favourite_Numbers2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dictionaries/Glossary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dictionaries/Glossary_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dictionaries/Pets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dictionaries/Polling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dictionaries/River.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dictionaries/person.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Dictionaries/person2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Album.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Archived Messages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/City Names.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Favorite Book.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Functions in Modules/Printing Models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Functions in Modules/poll_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Functions in Modules/polls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Functions in Modules/printing_functions_T1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Functions in Modules/printing_models_T2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Messages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Mixing Positional, Keyword and Arbitrary Arguments" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Mixing Positional,Keyword and Arbitrary Arguments/Cars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Mixing Positional,Keyword and Arbitrary Arguments/Sandwiches.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Mixing Positional,Keyword and Arbitrary Arguments/User Profile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Return Values/formatted_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Return Values/person.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/Sending Messages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/User Albums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/greeter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/positional and keywords argument in functions/Cities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/positional and keywords argument in functions/T-shirt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/positional and keywords argument in functions/T-shirt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Functions/positional and keywords argument in functions/large shirts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../If-statements/Alien_Colors_#2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../If-statements/Alien_Colors_#2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../If-statements/Alien_Colors_#3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../If-statements/Alien_colors_#1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../If-statements/Conditional_Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../If-statements/Stages_of_life.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../If-statements/favorite_fruit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../If-statements/if-statements&amp;lists/Checking_usersnames.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../If-statements/if-statements&amp;lists/Hello_Admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../If-statements/if-statements&amp;lists/No_users.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../If-statements/if-statements&amp;lists/Ordinal-Numbers,py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../If-statements/if-statements&amp;lists/Ordinal_Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../If-statements/more_conditional_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Input and while-loops/inputs/. Multiples_of_Ten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Input and while-loops/inputs/Rental_Car.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Input and while-loops/inputs/Restaurant_Seating.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Input and while-loops/while loops/Infinity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Input and while-loops/while loops/Movie Tickets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Input and while-loops/while loops/PizzaToppings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Input and while-loops/while loops/Three Exits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Input and while-loops/while loops/further while loops/Deli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Input and while-loops/while loops/further while loops/Dream Vacation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Input and while-loops/while loops/further while loops/No Pastrami.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Input and while-loops/while loops/further while loops/mountain poll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lists/Greetings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lists/Guest_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lists/More_Guest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lists/Names.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lists/Slicing_a_list.py/More_loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lists/Slicing_a_list.py/My Pizzas, Your Pizzas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lists/Slicing_a_list.py/slices.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lists/Your_Own_List.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lists/changing_Guest_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Loops/Animals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Loops/pizzas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Numbers/Counting_to_twenty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Numbers/Odd_Number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Numbers/One_million.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Numbers/Summing_a_million.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Numbers/Threes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Numbers/cube_comprehension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Numbers/cubes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tuples/Buffet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../tests2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../tests2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2US0PSJcn2C9Q7TB6uArb7PMVR9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/python_work/python assignment/mid_part/Testing_myCode/2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd4fae59-05ba-4a13-a924-4a4bd2d7eb7f" name="Changes" comment="" />
+      <created>1692917651588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692917651588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
