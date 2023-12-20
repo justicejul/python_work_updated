@@ -1,13 +1,15 @@
 import pygame
+from pygame.sprite import Sprite
 
-
-class Ship:
+class Ship(Sprite):
     """A class to manage the ship."""
 
     def __init__(self, ai_game):
         """Initialize the ship and set its starting position."""
 
-        # Tryrying to get the screen attribute of the instance of the AlienInvasion class
+        super().__init__()
+
+        # Trying to get the screen attribute of the instance of the AlienInvasion class
         self.screen = ai_game.screen
         # We call the settings class which was imported into the alien_invasion class,
         # and we assigned it to name called "Self.settings"
@@ -18,7 +20,7 @@ class Ship:
         self.screen_rect = ai_game.screen.get_rect()
 
         # Load the ship image and get its Rect object.
-        self.image = pygame.image.load('images/normal_ship.bmp')
+        self.image = pygame.image.load('images/normal_ship-1.bmp')
         self.rect = self.image.get_rect()
 
         # Start each new ship at the bottom center of the screen.
@@ -44,8 +46,9 @@ class Ship:
         """Update the ship's position based on the movement flag."""
         # Update the ship's x value for movement due to a condition being True.
         # It mainly just move the ship horizontally (x-axis), and the x value is responsible for that.
-        # if the amount of movement and the right position of the sprite image is less than the right edge of the screen,
-        # it should keep on moving that means it can only move as long as it doesn't touch the edge of the screeen.
+        # if the amount of movement and the right position of the sprite image is less than the right
+        # edge of the screen,
+        # it should keep on moving that means it can only move as long as it doesn't touch the edge of the screen.
         if self.moving_right and self.rect.right < self.screen_rect.right:
             # We have changed the increment values from integer values to floats fo fine and better movement
             self.x += self.settings.ship_speed
@@ -64,5 +67,9 @@ class Ship:
         # And you could also use objects in place of surfaces.
         self.screen.blit(self.image, self.rect)
 
+    def center_ship(self):
+        """Center the ship on the screen."""
+        self.rect.midbottom = self.screen_rect.midbottom
+        self.x = float(self.rect.x)
 
 

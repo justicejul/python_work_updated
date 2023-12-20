@@ -2,6 +2,8 @@ import pygame
 from pygame.sprite import Sprite
 
 # Our class is inheriting a class from the pygame library to use for the bullet part
+
+
 class Bullet(Sprite):
     """A class to manage bullets fired from the ship"""
 
@@ -36,7 +38,7 @@ class Bullet(Sprite):
         self.y -= self.settings.bullet_speed  # self.y = self.y - self.settings.bullet_speed
         # Update the rect position.
 
-        self.rect.y = self.y  #Qestion: when we assigned self.y as the Float accepting variable of "self.rect.y" did it still have the rect attribute
+        self.rect.y = self.y
 
     def draw_bullet(self):
         """Draw the bullet to the screen."""
